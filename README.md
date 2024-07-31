@@ -8,6 +8,9 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
+<p align="center">
+  <img width="250" src="https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149">
+</p>
 
 
 ### Contacts
