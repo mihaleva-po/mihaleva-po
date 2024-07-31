@@ -4,15 +4,9 @@
 <h1 align="center">Hi, I'm Polina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 <h3 align="center">A frontend developer from Russian</h3>
 
-[![Kitten Cat GIF](https://media.tenor.com/images/f7e21f2e1108a50fa2e004b865ee1f91/tenor.gif)](https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)
-
-[![Kitten Cat GIF](https://media.tenor.com/images/f7e21f2e1108a50fa2e004b865ee1f91/tenor.gif)](https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)
-
-![Kitten Cat GIF](https://media.tenor.com/images/f7e21f2e1108a50fa2e004b865ee1f91/tenor.gif)
-
-![Kitten Cat GIF](https://media.tenor.com/images/f7e21f2e1108a50fa2e004b865ee1f91/tenor.gif)
-
-[Посмотреть GIF на Tenor](https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
 
