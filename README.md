@@ -14,9 +14,9 @@
 
   -->
   
-<div class="tenor-gif-embed" data-postid="9070352192415256659" data-share-method="host" data-aspect-ratio="0.993976" data-width="100%"><a href="https://tenor.com/view/work-gif-9070352192415256659">Work GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="9070352192415256659" data-share-method="host" data-aspect-ratio="0.993976" data-width="100%">
+  <a href="https://tenor.com/view/work-gif-9070352192415256659"></a>from <a href="https://tenor.com/search/work-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<div class="tenor-gif-embed" data-postid="9070352192415256659" data-share-method="host" data-aspect-ratio="0.993976" data-width="100%"><a href="https://tenor.com/view/work-gif-9070352192415256659">Work GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> 
 
 
 
