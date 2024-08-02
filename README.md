@@ -5,14 +5,18 @@
 <h3 align="center">A frontend developer from Russian</h3>
 
 <!--
+<img width="250" height="250" alt="coder-cat" src="https://i.gifer.com.gif/2GU">
+-->
+
+
+
 <p align="center">
   <img width="250" src="https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif">
 </p>
--->
 
-<img width="250" height="250" alt="coder-cat" src="https://i.gifer.com.gif/2GU">
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
 
-
+<iframe src="https://gifer.com/embed/2GU" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 
 ### Contacts
 <p dir="auto"><a href="https://t.me/polinysh_ka" rel="nofollow"><img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
