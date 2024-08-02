@@ -56,7 +56,9 @@
   </div>
 
 ###
-<p>Если вы ищете очень ответственного и неконфликтного человека, вот мое резюме</p>
+<p>If you are looking for a highly responsible and non-confrontational person, here is my resume</p>
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fshields.io%2Fbadges?color=blue)
 
 
 <a href="https://disk.yandex.ru/i/1EVH6ECyXA176A" rel="nofollow">
