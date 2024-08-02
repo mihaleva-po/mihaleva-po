@@ -42,11 +42,6 @@
 <p>If you are looking for a highly responsible and non-confrontational person, here is my resume</p>
 
 <a href="https://disk.yandex.ru/i/1EVH6ECyXA176A" rel="nofollow">
-    <img src="https://img.shields.io/badge/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D1%8C-blue?style=for-the-badge" alt="Badge" style="max-width: 100%;">
-    <hr>
-</a>
-
-<a href="https://disk.yandex.ru/i/1EVH6ECyXA176A" rel="nofollow">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge" alt="Badge" style="max-width: 100%;">
     <hr>
 </a>
