@@ -4,20 +4,17 @@
 <h1 align="center">Hi, I'm Polina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 <h3 align="center">A frontend developer from Russian</h3>
 
-<!--
-<img width="250" height="250" alt="coder-cat" src="https://i.gifer.com.gif/2GU">
--->
-
 
 
 <p align="center">
   <img width="250" src="https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif">
 </p>
 
-<p align="center">
-  <img width="250" src="https://i.gifer.com/2GU.gif">
-</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=latikdesu&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latikdesu&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+
+[//]: <img src="https://www.codewars.com/users/LatikDesu/badges/micro" alt=""/>    
 
 
 
