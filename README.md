@@ -11,10 +11,10 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=latikdesu&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latikdesu&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mihaleva-po&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaleva-po&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
-[//]: <img src="https://www.codewars.com/users/LatikDesu/badges/micro" alt=""/>    
+[//]: <img src="https://www.codewars.com/users/mihaleva-po/badges/micro" alt=""/>    
 
 
 
