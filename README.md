@@ -58,13 +58,17 @@
 ###
 <p>If you are looking for a highly responsible and non-confrontational person, here is my resume</p>
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fshields.io%2Fbadges?color=blue)
-
 
 <a href="https://disk.yandex.ru/i/1EVH6ECyXA176A" rel="nofollow">
     <img src="https://camo.githubusercontent.com/b8f665a983e4056c0c55cdd0d6f006c55039c56d8361d6ee8b839de84a476b1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2544302541302544302542352544302542372544312538452544302542432544302542352d626c7565653f7374796c653d666f722d7468652d6261646765" alt="Badge" data-canonical-src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-bluee?style=for-the-badge" style="max-width: 100%;"> 
 <hr>
 </a>
+
+<a href="https://disk.yandex.ru/i/1EVH6ECyXA176A" rel="nofollow">
+    <img src="https://img.shields.io/badge/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D1%8C-blue?style=for-the-badge" alt="Badge" style="max-width: 100%;">
+    <hr>
+</a>
+
 
   ### Contacts
 <p dir="auto"><a href="https://t.me/polinysh_ka" rel="nofollow"><img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
