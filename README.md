@@ -61,12 +61,6 @@
 [//]: <img src="https://www.codewars.com/users/mihaleva-po/badges/micro" alt=""/>    
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihaleva-po&theme=buefy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihaleva-po&theme=buefy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihaleva-po&theme=buefy)
-
-
-
 <!--
 <p align="center">
   <img width="250" src="https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149.gif">
