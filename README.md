@@ -10,7 +10,7 @@
 </p>
 -->
 
-<img width="250" alt="coder-cat" src="https://i.gifer.com/2GU.gif">
+<img width="250" height="250" alt="coder-cat" src="https://i.gifer.com/2GU.gif">
 
 ![coder-cat](https://i.gifer.com/2GU.gif)
 
