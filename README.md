@@ -47,7 +47,7 @@
 ###
 <p>If you are looking for a highly responsible and non-confrontational person, here is my resume</p>
 
-<a href="https://disk.yandex.ru/i/1EVH6ECyXA176A" rel="nofollow">
+<a href="https://disk.yandex.ru/i/RN9chDaCee_seA" rel="nofollow">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge" alt="Badge" style="max-width: 100%;">
     <hr>
 </a>
