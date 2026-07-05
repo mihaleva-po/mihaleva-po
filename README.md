@@ -44,14 +44,6 @@
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   </div>
 
-###
-<p>If you are looking for a highly responsible and non-confrontational person, here is my resume</p>
-
-<a href="https://disk.yandex.ru/i/RN9chDaCee_seA" rel="nofollow">
-    <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge" alt="Badge" style="max-width: 100%;">
-    <hr>
-</a>
-
 
 
   ### Contacts
