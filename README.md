@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Polina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
-<h3 align="center">A frontend developer from Russian</h3>
+<h3 align="center">A frontend developer</h3>
 
 <!--
 <div align="center">
